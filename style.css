@@ -1,0 +1,25 @@
+*{
+    
+    
+}
+.nav{
+    margin-left: 1%;
+}
+.card{
+    padding: 5pt;
+}
+.logo{
+    background-image: url('https://cdn3.iconfinder.com/data/icons/computer-system-and-data/512/34-256.png');
+    background-size: 100% ;
+    background-repeat: no-repeat;
+}
+.card-single{
+    border: 1pt;
+    border-color: black;
+}
+footer{
+    float: right;
+}
+.AboutUs{
+    margin: 7pt;
+}
